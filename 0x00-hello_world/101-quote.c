@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <unistd>
-/**
- * main - Entry point
- *
- * Return: Always 0 (Success)
- */
+#include <unistd.h>
+/*
+* main - ENTRY POINT
+*rturn 1 (success)
+*/
 int main(void)
 {
 fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
