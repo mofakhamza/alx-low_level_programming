@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /*
-* main - ENTRY POINT
+* main - a programme that print a line to the standard error
 *rturn 1 (success)
 */
 int main(void)
