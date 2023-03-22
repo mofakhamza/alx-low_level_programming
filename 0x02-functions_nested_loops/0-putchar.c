@@ -1,19 +1,21 @@
-#include "0-putchar.c"
+#include "main.h"
+
 /**
- * main - Entry
- *
- * Return: (0) (Success)
+ * main - print _putchar
+ * iswritten by me
+ * Return: 0
  */
+
 int main(void)
 {
-	char *P	= "_putchar";
-
-	while (*P)
-	{
-		_putchar(*P);
-		p++;
-	}
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }
