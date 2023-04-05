@@ -2,10 +2,10 @@
 
 /**
  * check - checks for the square root
- * @a      :int
- * @b      :int
+ * @a:int
+ * @b:int
  *
- * Return  :int
+ * Return: int
  */
 int check(int a, int b)
 {
