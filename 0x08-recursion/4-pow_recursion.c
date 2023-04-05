@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * -pow_recursion - power
+ * _pow_recursion - power
  * @x      :int
  * @y      :int
  * Return  :int
