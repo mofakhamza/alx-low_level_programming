@@ -2,9 +2,9 @@
 
 /**
  * check - checks to see if number is prime
- * @a      :int
- * @b      :int
- * Return  :int
+ * @a:int
+ * @b:int
+ * Return:int
  */
 int check(int a, int b)
 {
@@ -17,9 +17,9 @@ int check(int a, int b)
 }
 
 /**
- * is-prime_number - states if number is prime
- * @n      :int
- * Return  :int
+ * is_prime_number - states if number is prime
+ * @n:int
+ * Return:int
  */
 int is_prime_number(int n)
 {
